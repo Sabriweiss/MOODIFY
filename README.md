@@ -82,7 +82,7 @@ Moodify is an intelligent music recommendation system that understands your mood
 
 1. **Clone the repository** (or navigate to the project directory):
    ```
-   cd mood-recommender-spotify
+   cd MOODIFY
    ```
 
 2. **Install dependencies**:
