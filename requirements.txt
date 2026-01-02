@@ -1,0 +1,11 @@
+streamlit>=1.20.0
+pandas
+numpy
+scikit-learn>=1.0.0  # Includes LogisticRegression, DecisionTree, RandomForest, KMeans
+scipy
+joblib
+python-dotenv
+matplotlib  # For plotting waveforms
+seaborn     # For data visualization
+requests     # For HTTP requests (optional)
+plotly
